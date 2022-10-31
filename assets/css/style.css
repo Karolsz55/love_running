@@ -65,7 +65,7 @@ h2 {
     width: 100%;
     overflow: hidden;
 
-    position: absolute;
+    position: relative;
 }
 
 #cover-text, #cover-text h2 {
